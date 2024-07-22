@@ -1,0 +1,14 @@
+name: CI
+
+on:
+  workflow_dispatch:
+  pull_request:
+    branches:
+      - main
+    types: [opened, synchronize]  # Triggers on PR open and commits to PR
+
+jobs:
+  ci:
+    uses: underhill-test/ci-workflow/.github/workflows/ci-workflow.yml@main
+    with:
+      run-translations: true

@@ -39,6 +39,10 @@
           "default": "False"
         },
         {
+          "label": "Label for Quack button",
+          "default": "Quack"
+        },
+        {
           "label": "Feedback text",
           "default": "You got @score of @total points",
           "description": "Feedback text, variables available: @score and @total. Example: 'You got @score of @total possible points'"

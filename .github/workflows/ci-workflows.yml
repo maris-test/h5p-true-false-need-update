@@ -9,6 +9,6 @@ on:
 
 jobs:
   ci:
-    uses: underhill-test/ci-workflow/.github/workflows/ci-workflow.yml@main
+    uses: maris-test/reusable-workflows/.github/workflows/ci-workflow.yml@main
     with:
       run-translations: true

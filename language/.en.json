@@ -45,7 +45,8 @@
         },
         {
           "label": "Text for \"Check\" button",
-          "default": "Check"
+          "default": "Check",
+          "description": "Feedback text, variables available: @score and @total. Example: 'You got @score of @total possible points'"
         },
         {
           "label": "Text for \"Submit\" button",

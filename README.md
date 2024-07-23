@@ -10,7 +10,7 @@ It can be used standalone, or within Question Set, Course Presentation and Inter
 a
 ## License
 
-(The MIT License)
+(The MIT License)s
 
 Copyright (c) 2016 Joubel ASs
 ss

@@ -9,7 +9,7 @@ It can be used standalone, or within Question Set, Course Presentation and Inter
 [See it in action on the H5P.org project page](https://h5p.org/true-false-question)
 a
 ## License
-
+s
 (The MIT License)s
 
 Copyright (c) 2016 Joubel ASs

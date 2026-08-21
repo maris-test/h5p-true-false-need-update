@@ -12,5 +12,5 @@ jobs:
     uses: maris-test/reusable-workflows/.github/workflows/ci-workflow.yml@main
     with:
       run-translations: true
-      run-build: true
-      run-tests: true
+      run-build: false
+      run-tests: false

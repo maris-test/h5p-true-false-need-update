@@ -35,6 +35,10 @@
           "default": "Patiess"
         },
         {
+          "label": "nonsense extra field",
+          "default": "test"
+        },
+        {
           "label": "Pogas \"Aplams\" etiķete",
           "default": "Aplams"
         },

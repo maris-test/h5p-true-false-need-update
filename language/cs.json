@@ -24,8 +24,7 @@
         {
           "label": "Nepravda"
         }
-      ],
-      "default": "true"
+      ]
     },
     {
       "label": "Překlady uživatelského rozhraní pro otázky Pravda/Nepravda",

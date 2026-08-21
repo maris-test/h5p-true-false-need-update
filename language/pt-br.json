@@ -24,8 +24,7 @@
         {
           "label": "Falso"
         }
-      ],
-      "default": "true"
+      ]
     },
     {
       "fields": [

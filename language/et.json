@@ -24,8 +24,7 @@
         {
           "label": "Vale"
         }
-      ],
-      "default": "true"
+      ]
     },
     {
       "label": "Kasutajaliidese tõlge õige/vale küsimustele",

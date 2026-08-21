@@ -24,8 +24,7 @@
         {
           "label": "Fals"
         }
-      ],
-      "default": "true"
+      ]
     },
     {
       "label": "Traduccions de la interfície d’usuari per preguntes Cert/Fals",

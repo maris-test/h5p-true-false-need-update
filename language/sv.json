@@ -24,8 +24,7 @@
         {
           "label": "Falskt"
         }
-      ],
-      "default": "true"
+      ]
     },
     {
       "label": "Översättning i användargränssnitt för Sant/Falskt-frågor",

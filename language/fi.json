@@ -24,8 +24,7 @@
         {
           "label": "Väärin"
         }
-      ],
-      "default": "true"
+      ]
     },
     {
       "label": "Oikein/väärin-tehtävän toimintojen nimet",

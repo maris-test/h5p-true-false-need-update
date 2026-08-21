@@ -24,8 +24,7 @@
         {
           "label": "Feil"
         }
-      ],
-      "default": "true"
+      ]
     },
     {
       "label": "User interface translations for True/False Questions",

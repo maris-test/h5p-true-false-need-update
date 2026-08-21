@@ -24,8 +24,7 @@
         {
           "label": "Pogrešno"
         }
-      ],
-      "default": "true"
+      ]
     },
     {
       "label": "Interfejs za prijevode za Pitanja Tačno/Pogrešno",

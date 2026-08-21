@@ -24,8 +24,7 @@
         {
           "label": "Niet Waar"
         }
-      ],
-      "default": "true"
+      ]
     },
     {
       "label": "Vertalingen van de gebruikersinterface voor Juist/onjuist-vragen",

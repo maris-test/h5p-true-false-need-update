@@ -24,8 +24,7 @@
         {
           "label": "Fals"
         }
-      ],
-      "default": "true"
+      ]
     },
     {
       "label": "Traduceri de interfață utilizator pentru Întrebări adevărate / false",

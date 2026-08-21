@@ -24,8 +24,7 @@
         {
           "label": "Ne drži"
         }
-      ],
-      "default": "true"
+      ]
     },
     {
       "label": "Prevodi uporabniškega vmesnika",

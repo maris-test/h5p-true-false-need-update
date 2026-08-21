@@ -24,8 +24,7 @@
         {
           "label": "Fałsz"
         }
-      ],
-      "default": "true"
+      ]
     },
     {
       "label": "Tłumaczenie interfejsu dla pytań Prawda/Fałsz",

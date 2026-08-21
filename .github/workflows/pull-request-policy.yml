@@ -1,0 +1,27 @@
+name: PR policy
+
+on:
+  pull_request_target:
+    branches:
+      - master
+    types: [opened, synchronize, reopened, ready_for_review]
+  pull_request_review:
+    branches:
+      - master
+    types: [submitted, edited, dismissed]
+
+permissions:
+  contents: write
+  checks: write
+  pull-requests: write
+
+jobs:
+  policy:
+    uses: maris-test/reusable-workflows/.github/workflows/pull-request-policy.yml@<53f357007bc5dc50455731cf726a9fb9495292d1>
+    with:
+      policy-ref: <53f357007bc5dc50455731cf726a9fb9495292d1>
+      required-checks: '["ci / validate-translations", "ci / test"]'
+      translation-paths: '["language/*.json"]'
+      fallback-owner: makmentins
+      merge-method: merge
+      policy-check-name: H5P policy approval

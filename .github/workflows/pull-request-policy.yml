@@ -10,6 +10,10 @@ on:
       - master
     types: [submitted, edited, dismissed]
 
+concurrency:
+  group: pr-policy-${{ github.event.pull_request.number }}
+  cancel-in-progress: false
+
 permissions:
   contents: write
   checks: write
